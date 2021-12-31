@@ -11,3 +11,5 @@ Each case study / experiment / project in separate folder. Case studies:
  - **Computer vision image classification to separate elephants from rhinos**
  - A toy example of **market basket analysis**
  - **RNN language model for Finnish** (to be completed)
+ - **Retinal OCT image classification**
+ - [**Colorectal histology image classification**](CV_colorectal_histology_classification/README.md)
