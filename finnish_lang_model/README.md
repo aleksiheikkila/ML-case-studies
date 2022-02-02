@@ -10,3 +10,4 @@ This was done on Google Colab, where the model has been trained on multiple sepa
 Check the notebook for further details.
 
 At this points, the model has figured out the structure and spelling quite okay, but it has still some work to do for capturing something meaningful a bit more consistently :)
+

@@ -16,3 +16,6 @@ Each case study / experiment / project in separate folder. Case studies:
 
  - [**Retinal OCT image classification**](CV_retinal_OCT_classification)
  - [**Colorectal histology image classification**](CV_colorectal_histology_classification)
+ - [**Dogs vs. cats image classification**](CV_dogs_vs_cats_redux).
+
+    Used pretrained EfficientNet-b7 model to extract features from the images, then applied simple LogisticRegression to classify them. PyTorch.
